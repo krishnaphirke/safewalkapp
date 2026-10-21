@@ -1,0 +1,6 @@
+{
+  "name": "SafeWalk - Mobile Personal Safety App",
+  "description": "Walk safer. Stay connected. SafeWalk is a personal safety ecosystem providing real-time journey tracking, scheduled check-ins, route deviation detection, and emergency SOS workflows.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
